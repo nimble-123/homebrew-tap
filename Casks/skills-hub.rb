@@ -1,6 +1,6 @@
 cask "skills-hub" do
-  version "0.5.0"
-  sha256 "c5a4eb521ffbd2c692cfc400c4fef628be24bcb19cfe3086f3ff952ed0f6e582"
+  version "0.6.0"
+  sha256 "f61c7e7fe904c7095fb364f4a3689b05f11024eab50a1586696d906debb1392e"
 
   url "https://github.com/nimble-123/skills-hub/releases/download/v#{version}/skills-hub_#{version}_universal.dmg"
   name "skills-hub"
