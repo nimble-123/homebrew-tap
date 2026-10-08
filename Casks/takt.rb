@@ -1,6 +1,6 @@
 cask "takt" do
-  version "0.2.0"
-  sha256 "d1a6ada11ad7a5cff3f7914a0ec1e4a3d6acd8bb07334d8c5deeebe139f40a37"
+  version "0.3.0"
+  sha256 "91d2b838df99a3389a8e5811294145e1145b8ced1639e29ffcc47ca891928413"
 
   url "https://github.com/nimble-123/takt/releases/download/v#{version}/Takt-#{version}-arm64.dmg"
   name "Takt"
