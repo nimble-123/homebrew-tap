@@ -16,6 +16,8 @@ cask "takt" do
   depends_on macos: :tahoe
 
   app "Takt.app"
+  # The command line tool (takt status, start, stop …), since 0.6.0.
+  binary "#{appdir}/Takt.app/Contents/Helpers/takt"
 
   uninstall quit: "de.nilslutz.takt"
 
