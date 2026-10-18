@@ -1,8 +1,8 @@
 class Hud < Formula
   desc "Heads-up display for your developer machine in the terminal"
   homepage "https://github.com/nimble-123/macos-hud"
-  url "https://github.com/nimble-123/macos-hud/releases/download/v0.9.0/hud-0.9.0-universal-apple-darwin.tar.gz"
-  sha256 "32d73489eeb54e65479e401195412cc2b7474238ff49090bb61a072cf02bef92"
+  url "https://github.com/nimble-123/macos-hud/releases/download/v0.10.0/hud-0.10.0-universal-apple-darwin.tar.gz"
+  sha256 "8eaa31eba808399219605b30810fcf6cd25e6abf78d8a78d6b9f5995b7574e19"
   license :cannot_represent
 
   depends_on :macos
